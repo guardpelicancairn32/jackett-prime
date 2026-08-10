@@ -36,4 +36,4 @@ All-in-one **Jackett Prime** media indexer featuring quality filtering, metadata
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.  
+> This repository is provided for educational and utility purposes only. Use at your own discretion.   
